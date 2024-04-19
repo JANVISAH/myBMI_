@@ -27,8 +27,4 @@ This iOS application helps users monitor their body mass index (BMI) by calculat
 - Swift
 - UIKit
 
-## Author ✍️
-[Your Name]
 
-## License 📜
-This project is licensed under the [MIT License](LICENSE).
